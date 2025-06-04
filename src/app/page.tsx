@@ -1,0 +1,8 @@
+
+export default function Home() {
+  return (
+    <div>
+      homePage - Live with bitpod & docker
+    </div>
+  );
+}
